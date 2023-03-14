@@ -1,0 +1,82 @@
+{
+    "bunnyfetch": {
+        "name": "Bunnyfetch",
+        "cate": "System info",
+        "auth": "Rosettea",
+        "lice": "MIT",
+        "lang": "Go",
+        "locc":  "308"
+    },
+    "cpufetch": {
+        "name": "Cpufetch",
+        "cate": "Cpu info",
+        "auth": "Dr-Noob",
+        "lice": "GPL-2.0",
+        "lang": "C",
+        "locc":  "x"
+    },
+    "fetchfetchinfo": {
+        "name": "Fetchfetchinfo",
+        "cate": "Fetch fetch",
+        "auth": "Dripbert",
+        "lice": "MIT",
+        "lang": "Bash, Json",
+        "locc":  "99"
+    },
+    "fetchmaster": {
+        "name": "Fetch-Master-6000",
+        "cate": "System info",
+        "auth": "anhsirk0",
+        "lice": "GPL-3.0",
+        "lang": "Perl",
+        "locc":  "754"
+    },
+    "neofetch": {
+        "name": "Neofetch",
+        "cate": "System info",
+        "auth": "Dylan Araps",
+        "lice": "MIT",
+        "lang": "Bash 3.2+",
+        "locc":  "8401"
+    },
+    "nitch": {
+        "name": "Nitch",
+        "cate": "System info",
+        "auth": "sleert",
+        "lice": "MIT",
+        "lang": "Nim",
+        "locc":  "x"
+    },
+    "pfetch": {
+        "name": "Pfetch",
+        "cate": "System info",
+        "auth": "Dylan Araps",
+        "lice": "MIT",
+        "lang": "Posix Shell",
+        "locc":  "1356"
+    },
+    "pokefetch": {
+        "name": "Pokefetch",
+        "cate": "Pokemon",
+        "auth": "rmccorm4",
+        "lice": "MIT",
+        "lang": "Python, Bash",
+        "locc":  "176"
+    },
+    "pwy": {
+        "name": "Pwy",
+        "cate": "Wethear",
+        "auth": "egargo",
+        "lice": "MIT",
+        "lang": "Python",
+        "locc":  "x"
+    },
+    "rxfetch": {
+        "name": "Rxfetch",
+        "cate": "System info",
+        "auth": "Mangeshrex",
+        "lice": "MIT",
+        "lang": "Bash",
+        "locc":  "x"
+    }
+}
